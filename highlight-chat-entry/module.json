@@ -1,0 +1,16 @@
+{
+  "id": "highlight-chat-entry",
+  "title": "Highlight Chat Entry",
+  "description": "This simple QoL module allows for the highlighting of both chat messages and chat cards. This can then be hotkey copied and pasted into another field or entry like actor, item, etc.",
+  "version": "1.0.0",
+  "authors": [{"name": "DanteFaustus"}],
+  "styles": [
+	"styles/highlight-chat-entry.css"
+  ],
+  "manifest": "https://github.com/DanteFaustus/FVTT-highlight-chat-entry/blob/main/highlight-chat-entry/module.json",
+  "download": "https://github.com/DanteFaustus/FVTT-highlight-chat-entry/blob/main/highlight-chat-entry.zip",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  }
+}
