@@ -7,8 +7,8 @@
   "styles": [
 	"styles/highlight-chat-entry.css"
   ],
-  "manifest": "https://github.com/DanteFaustus/FVTT-highlight-chat-entry/blob/main/highlight-chat-entry/module.json",
-  "download": "https://github.com/DanteFaustus/FVTT-highlight-chat-entry/blob/main/highlight-chat-entry.zip",
+  "manifest": "https://raw.githubusercontent.com/DanteFaustus/FVTT-highlight-chat-entry/main/highlight-chat-entry/module.json",
+  "download": "`https://github.com/DanteFaustus/FVTT-highlight-chat-entry/raw/main/highlight-chat-entry.zip",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
